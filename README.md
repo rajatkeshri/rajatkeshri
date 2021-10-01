@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm <h1>Rajat Keshri</h1>
+I am a Engineer and an enthusiastic software and AI/ML developer. I am also a Photographer, Illustrator and a Web designer.
+
 <!--
 **rajatkeshri/rajatkeshri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
