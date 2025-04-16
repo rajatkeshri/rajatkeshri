@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rajat Keshri
 
-🔭 I'm an engineer interested in software/firmware dvelopment, AI/ML aplications and web designing. Apart from this. I'm a photographer and an illustrator. 
+🔭 I'm an engineer interested in Software dvelopment, LLM aplications and web designing. Apart from this. I'm a photographer and an illustrator. 
 
 
 <!--
